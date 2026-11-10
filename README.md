@@ -1,7 +1,8 @@
 # Logic-Gates-Flutter
 
 **Basic Electronics Lab Project (EC2700)** by Group 3
-Topic: Implementation of Logic Gates, Adders & Subtractors
+
+**Topic:** Implementation of Logic Gates, Adders & Subtractors
 
 ## What the project is
 
